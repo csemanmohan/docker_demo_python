@@ -1,4 +1,4 @@
-# Docker Python Aiohttp Hello-World Server
+# Docker Hello-World Server
 
 This is a sample 'hello-world' server using [aiohttp](aiohttp.readthedocs.io).
 
