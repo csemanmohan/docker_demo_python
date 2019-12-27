@@ -1,5 +1,7 @@
 # Docker Hello-World Server
 
+Please follow below steps for creating Docker image of this Repo and to access it.
+
 This is a sample 'hello-world' server using [aiohttp](aiohttp.readthedocs.io).
 
 Build the docker image with the command:
